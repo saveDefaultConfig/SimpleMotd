@@ -1,0 +1,4 @@
+name: MOTD
+version: '${project.version}'
+main: xyz.colide.motd.MOTD
+api-version: '1.20'

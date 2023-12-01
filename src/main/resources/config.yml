@@ -1,0 +1,9 @@
+# MOTD Display Lines
+MOTD_Display:
+  - "&cLine1"
+  - "&aLine2"
+
+# Maximum Players Configuration
+Max_Players:
+  Enabled: true
+  Count: 100
